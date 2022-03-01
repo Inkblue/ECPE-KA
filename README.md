@@ -7,4 +7,4 @@ tensorflow 1.13.1
 
 # 运行步骤
 ##  第一步：运行P_emotion_Bert.py
-#第二步：运行pair_Bert.py
+#  第二步：运行pair_Bert.py
